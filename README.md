@@ -1,6 +1,6 @@
 # louis camara
 
-software engineer building and learning in public.
+engineer building and learning in public.
 
 ## stack
 
