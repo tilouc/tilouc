@@ -1,6 +1,6 @@
 # louis camara
 
-engineer building and learning in public.
+engineering student building and learning in public.
 
 ## stack
 
