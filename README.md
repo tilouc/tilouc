@@ -1,16 +1,20 @@
-## Hi there 👋
+### hey, i'm louis 👋
 
-<!--
-**tilouc/tilouc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**i'm a builder.**
+i love video games 🎮, basketball 🏀 and yapping about tech startups 🦄
 
-Here are some ideas to get you started:
+### 🛠️ what i'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📝 **[today-i-learned](https://github.com/tilouc/today-i-learned)** — daily learning log
+- 🐱 **[tabwhisker](https://github.com/tilouc/tabwhisker)** — free, open-source ai tab companion
+- 🤫 **stealth**
+
+### 🎒 stack
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,supabase,vercel,git,github&perline=10" />
+</a>
+
+### 🌐 portfolio
+
+[tilou.xyz](https://tilou.xyz)
